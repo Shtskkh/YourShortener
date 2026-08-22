@@ -1,0 +1,16 @@
+**/bin/
+**/obj/
+**/out/
+.git/
+.idea/
+.vs/
+.vscode/
+
+# files
+Dockerfile*
+**/*.trx
+**/*.md
+**/*.ps1
+**/*.cmd
+**/*.sh
+**/*.env
