@@ -15,8 +15,8 @@ Clone the repository and run the application locally.
 # Clone the repository
 git clone https://github.com/Shtskkh/YourShortener.git
 
-# Navigate to the project directory
-cd YourShortener
+# Navigate to the source code directory
+cd YourShortener/src
 
 # Restore dependencies
 dotnet restore
